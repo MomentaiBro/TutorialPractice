@@ -1,9 +1,10 @@
-# Hi Friends! 
+# NumberOne - Parallax.js
 
-I made this repo to make it easier to organize all the online tutorials I try out.
+Today we're practicing some parallax scrolling using a Javascript LIbrary called Parallax.js.
 
-# Essentials
+If you want to check out the library, here is the link to their website:
+  http://matthew.wagerfield.com/parallax/
 
-Each Directory is its own project. Details and credits for each project can be found in the README.md in their respected directory.
+For the online tutorail, please visit this video for more information:
 
-Happy coding friends and may we all continue to learn and grow!! :)
+https://www.youtube.com/watch?v=6xVMUo0_hu4&ab_channel=OnlineTutorialsOnlineTutorials
